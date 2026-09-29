@@ -1,0 +1,11 @@
+3903 Command Center – Dependency Fix
+
+Enthalten:
+- package.json
+
+Änderung:
+- @cloudflare/workers-types auf ^5.20260929.1 aktualisiert.
+
+Anwendung:
+Die package.json im lokalen Repository 3903-command-center durch diese Datei ersetzen.
+Danach über GitHub Desktop committen und zu main pushen.
